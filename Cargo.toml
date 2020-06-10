@@ -1,0 +1,8 @@
+[package]
+name = "ear"
+version = "0.1.0"
+authors = ["stephaneworkspace <s.bressani@bluewin.ch>"]
+edition = "2018"
+
+[dependencies]
+ears = "0.8.0"
